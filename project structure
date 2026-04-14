@@ -1,0 +1,15 @@
+AI-Career-Copilot/
+│
+├── app.py
+├── model.py
+├── db.py
+├── requirements.txt
+│
+├── templates/
+│   ├── index.html
+│   ├── result.html
+│
+├── static/
+│   └── style.css
+│
+└── database.db
